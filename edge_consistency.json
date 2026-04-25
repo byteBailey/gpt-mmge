@@ -1,0 +1,57 @@
+[
+  {
+    "name": "movies",
+    "nodes": 16672,
+    "edges_undirected": 80401,
+    "classes": 20,
+    "1hop_consistency": 0.44698449969291687,
+    "2hop_consistency": 0.31857118010520935,
+    "random_baseline": 0.154585063457489,
+    "homophily_lift": 2.8915115710117614,
+    "majority_acc": 0.5227327255278311
+  },
+  {
+    "name": "toys",
+    "nodes": 20695,
+    "edges_undirected": 56701,
+    "classes": 18,
+    "1hop_consistency": 0.7240789532661438,
+    "2hop_consistency": 0.6144198179244995,
+    "random_baseline": 0.07045357674360275,
+    "homophily_lift": 10.27739096768981,
+    "majority_acc": 0.7773749093546047
+  },
+  {
+    "name": "grocery",
+    "nodes": 17074,
+    "edges_undirected": 71131,
+    "classes": 20,
+    "1hop_consistency": 0.6812782287597656,
+    "2hop_consistency": 0.4698132276535034,
+    "random_baseline": 0.07323766499757767,
+    "homophily_lift": 9.302293140862682,
+    "majority_acc": 0.7592831205341455
+  },
+  {
+    "name": "arts",
+    "nodes": 28406,
+    "edges_undirected": 145630,
+    "classes": 7,
+    "1hop_consistency": 0.8595893979072571,
+    "2hop_consistency": 0.7638739347457886,
+    "random_baseline": 0.18809883296489716,
+    "homophily_lift": 4.5698816114806675,
+    "majority_acc": 0.903330282334718
+  },
+  {
+    "name": "cd",
+    "nodes": 36146,
+    "edges_undirected": 149319,
+    "classes": 15,
+    "1hop_consistency": 0.5716017484664917,
+    "2hop_consistency": 0.4707149863243103,
+    "random_baseline": 0.09459063410758972,
+    "homophily_lift": 6.04290005939,
+    "majority_acc": 0.6705859569523599
+  }
+]
